@@ -24,4 +24,6 @@ bash
 Copy code
 python random_calculator.py
 screenshot
+
+screenshot
 ![Screenshot 2024-11-03 074657](https://github.com/user-attachments/assets/2228531c-f6a1-4f3a-abca-62e22d9cf9a9)
